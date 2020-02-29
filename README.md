@@ -1,2 +1,2 @@
 # pic_mini_project
-final mini project upload
+A simple ticket booking program in C language.
